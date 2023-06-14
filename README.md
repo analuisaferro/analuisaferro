@@ -1,4 +1,7 @@
-![](https://github.com/analuisaferro/analuisaferro/blob/main/51dfcd9a3c2515d64dd706dd13ad18fdd1ec6aef_hq.gif)
+
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/analuisaferro/analuisaferro/blob/main/51dfcd9a3c2515d64dd706dd13ad18fdd1ec6aef_hq.gif)" />
+</p>
 
 ### Hi there 👋
 
