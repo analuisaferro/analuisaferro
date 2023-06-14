@@ -1,3 +1,5 @@
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/analuisaferro/analuisaferro/blob/main/51dfcd9a3c2515d64dd706dd13ad18fdd1ec6aef_hq.gif))
+
 ### Hi there 👋
 
 <!--
