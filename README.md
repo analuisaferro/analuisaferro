@@ -1,6 +1,7 @@
 <body>
 <div allign="center">
-    <img scr="https://pa1.aminoapps.com/6845/51dfcd9a3c2515d64dd706dd13ad18fdd1ec6aef_hq.gif">
+    <img src="https://pa1.aminoapps.com/6845/51dfcd9a3c2515d64dd706dd13ad18fdd1ec6aef_hq.gif">
+    <h1>oi?</h1>
 </div>
 </body>
 
