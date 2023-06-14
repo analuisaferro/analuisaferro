@@ -1,6 +1,6 @@
 <body>
 <div allign="center">
-    <img scr="https://github.com/analuisaferro/analuisaferro/blob/main/51dfcd9a3c2515d64dd706dd13ad18fdd1ec6aef_hq.gif">
+    <img scr="https://pa1.aminoapps.com/6845/51dfcd9a3c2515d64dd706dd13ad18fdd1ec6aef_hq.gif">
 </div>
 </body>
 
