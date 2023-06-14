@@ -1,10 +1,9 @@
 <body>
-  <center>
+<div allign="center">
     <img scr="https://github.com/analuisaferro/analuisaferro/blob/main/51dfcd9a3c2515d64dd706dd13ad18fdd1ec6aef_hq.gif">
-  </center>
+</div>
 </body>
 
-### Hi there 👋
 
 <!--
 **analuisaferro/analuisaferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
