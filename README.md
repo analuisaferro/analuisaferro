@@ -1,10 +1,5 @@
 
-<center><p align="center">
-
-test me!
-
-</p>
-</center>
+<h3 align="center">test me!</h3>
 
 ---
 
