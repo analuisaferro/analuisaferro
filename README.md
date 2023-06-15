@@ -4,7 +4,7 @@
 test me!
 
 </p>
-</p>center>
+</center>
 
 ---
 
