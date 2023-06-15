@@ -1,5 +1,8 @@
 ## Hi! ✨
 
+- Front-end developer
+- I'm currently learning React!
+- 
 <!--
 **analuisaferro/analuisaferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
