@@ -1,12 +1,4 @@
-<body>
-    <center>
-<div allign="center">
-    <img src="https://pa1.aminoapps.com/6845/51dfcd9a3c2515d64dd706dd13ad18fdd1ec6aef_hq.gif">
-    <h1>oi?</h1>
-</div>
-    </center>
-</body>
-
+## Hi! ✨
 
 <!--
 **analuisaferro/analuisaferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
