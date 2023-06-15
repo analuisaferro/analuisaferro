@@ -1,7 +1,6 @@
 
 <div align="center"><img src="https://github.com/analuisaferro/analuisaferro/blob/main/51dfcd9a3c2515d64dd706dd13ad18fdd1ec6aef_hq.gif"></div>
 
---- 
 
 # 🌟 Hi! 
 - 💻 Front-end developer
@@ -16,3 +15,5 @@
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+---
