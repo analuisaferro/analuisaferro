@@ -1,8 +1,9 @@
+---
+
 ## 🌟 Hi! 
 
 - 💻 Front-end developer
 - 🌱 I'm currently learning React!
-<br>
 
 ## 💻 Knowledge
 
